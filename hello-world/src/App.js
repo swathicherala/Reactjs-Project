@@ -4,6 +4,7 @@ import './App.css';
 // import MovieComponent from './MovieComponent'
 // import Colorizer from './Colorizer';
 import Counter from './Counter';
+import ToDoList from './ToDoList';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <MovieComponent /> */}
       {/* <Colorizer /> */}
       <Counter />
+      <ToDoList />
     </div>
   )
 }
