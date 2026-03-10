@@ -5,7 +5,8 @@ import './App.css';
 // import Colorizer from './Colorizer';
 // import Counter from './Counter';
 // import ToDoList from './ToDoList';
-import SearchFilter from './SearchFilter';
+// import SearchFilter from './SearchFilter';
+import ShowHidePassword from './ShowHidePassword'
 
 
 function App() {
@@ -16,7 +17,8 @@ function App() {
       {/* <Colorizer /> */}
       {/* <Counter />
       <ToDoList /> */}
-      <SearchFilter />
+      {/* <SearchFilter /> */}
+      <ShowHidePassword />
     </div>
   )
 }
