@@ -6,7 +6,8 @@ import './App.css';
 // import Counter from './Counter';
 // import ToDoList from './ToDoList';
 // import SearchFilter from './SearchFilter';
-import ShowHidePassword from './ShowHidePassword'
+// import ShowHidePassword from './ShowHidePassword'
+import FetchApi from './FetchApi';
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
       {/* <Counter />
       <ToDoList /> */}
       {/* <SearchFilter /> */}
-      <ShowHidePassword />
+      {/* <ShowHidePassword /> */}
+      <FetchApi />
     </div>
   )
 }
